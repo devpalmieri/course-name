@@ -262,10 +262,11 @@ Here's a recap of all the tasks you've accomplished in your repository:
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 -->
 
 ---
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
